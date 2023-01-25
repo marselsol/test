@@ -16,8 +16,8 @@ public class Main {
             System.out.println("До старта: " + i);
         }
 
-        for (int i = 0; true; i++) {
-            System.out.println(i);
-        }
+        System.out.println("new branch");
+
+
     }
 }
